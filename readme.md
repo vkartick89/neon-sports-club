@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/vkartick89/neon-sports-club/blob/master/docs/images/neon-sc-logo.png" alt="neon sc"></a>
+  <a><img src="https://github.com/vkartick89/neon-sports-club/blob/main/docs/images/neon-sc-logo.png" alt="neon sc"></a>
   <br>
   Neon Sports Club Application
   <br>
